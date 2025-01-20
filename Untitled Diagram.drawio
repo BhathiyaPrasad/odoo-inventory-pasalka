@@ -610,9 +610,6 @@
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-332" value="End" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=2GiL6uA6Q_9l;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-318">
           <mxGeometry x="3060.28" y="16.87" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hJsZTmZmDDR9Kw60t7y2-333" value="Return Point" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=2GiL4hYD5Cdj;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-318">
-          <mxGeometry x="1704.28" y="484.87000000000006" width="122" height="92" as="geometry" />
-        </mxCell>
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-334" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.006;exitY=0.5;exitPerimeter=0;entryX=-0.006;entryY=0.5;entryPerimeter=0;lucidId=2GiL_1VQtGbD;" edge="1" parent="hJsZTmZmDDR9Kw60t7y2-318" source="hJsZTmZmDDR9Kw60t7y2-358" target="hJsZTmZmDDR9Kw60t7y2-320">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
@@ -721,30 +718,6 @@
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-355" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.006;exitY=0.5;exitPerimeter=0;entryX=-0.006;entryY=0.5;entryPerimeter=0;lucidId=2GiL5cnMp6yx;" edge="1" parent="hJsZTmZmDDR9Kw60t7y2-318" source="hJsZTmZmDDR9Kw60t7y2-331" target="hJsZTmZmDDR9Kw60t7y2-332">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hJsZTmZmDDR9Kw60t7y2-356" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=0.5;exitY=0.992;exitPerimeter=0;entryX=-0.006;entryY=0.5;entryPerimeter=0;lucidId=2GiLOd9GFKad;" edge="1" parent="hJsZTmZmDDR9Kw60t7y2-318" source="hJsZTmZmDDR9Kw60t7y2-325" target="hJsZTmZmDDR9Kw60t7y2-333">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1520" y="90" />
-              <mxPoint x="1589" y="90" />
-              <mxPoint x="1589" y="409" />
-              <mxPoint x="1629" y="409" />
-              <mxPoint x="1629" y="531" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="hJsZTmZmDDR9Kw60t7y2-357" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=block;endFill=1;exitX=1.006;exitY=0.5;exitPerimeter=0;entryX=0.672;entryY=1.011;entryPerimeter=0;lucidId=2GiLAodvBY6D;entryDx=0;entryDy=0;" edge="1" parent="hJsZTmZmDDR9Kw60t7y2-318" target="hJsZTmZmDDR9Kw60t7y2-320">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1924.28" y="548.87" />
-              <mxPoint x="1924.28" y="669.87" />
-              <mxPoint x="449.28" y="669.87" />
-              <mxPoint x="449.28" y="130.87" />
-              <mxPoint x="515.28" y="130.87" />
-            </Array>
-            <mxPoint x="1851.012" y="549.17" as="sourcePoint" />
-            <mxPoint x="518.28" y="110.90599999999988" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-358" value="Login" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLtwZEJxSu;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-318">
