@@ -13,10 +13,10 @@
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-3" value="Login" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLtwZEJxSu;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
           <mxGeometry x="270" width="122" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="hJsZTmZmDDR9Kw60t7y2-4" value="Dashboard" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLVKG_Uo.f;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
+        <mxCell id="hJsZTmZmDDR9Kw60t7y2-4" value="Dashboard&lt;br&gt;&amp;amp;&lt;br&gt;Reports" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLVKG_Uo.f;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
           <mxGeometry x="541" width="122" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="hJsZTmZmDDR9Kw60t7y2-5" value="Review Current Inventory Levels&lt;br&gt;&amp;amp;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLOzU3.O_G;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
+        <mxCell id="hJsZTmZmDDR9Kw60t7y2-5" value="Review Current Inventory Levels&lt;br&gt;&amp;amp;&lt;div&gt;MRF&lt;/div&gt;" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;fontSize=16.7;spacing=9;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgLOzU3.O_G;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
           <mxGeometry x="760" width="175" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hJsZTmZmDDR9Kw60t7y2-6" value="Are Current Levels Sufficient?" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;rhombus;fontSize=16.7;spacing=3.8;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;lucidId=EjgL9UUAcc1q;" vertex="1" parent="hJsZTmZmDDR9Kw60t7y2-1">
