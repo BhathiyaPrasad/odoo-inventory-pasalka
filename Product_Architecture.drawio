@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="BrvUMdT3Bba3vBlwz_pk-45" value="&lt;b&gt;User&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=none;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;labelBackgroundColor=none;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="BrvUMdT3Bba3vBlwz_pk-45" value="&lt;b&gt;Frontend&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=none;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;labelBackgroundColor=none;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-591" y="-1020" width="152" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-49" value="Inventory Module" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;" vertex="1" parent="1">
