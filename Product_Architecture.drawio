@@ -1,13 +1,13 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="_Mx9L74P1TqhOMbyEyTF">
-    <mxGraphModel dx="2351" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1906" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-45" value="&lt;b&gt;User&lt;/b&gt;" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=none;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;labelBackgroundColor=none;verticalAlign=middle;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="-591" y="-1020" width="152" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BrvUMdT3Bba3vBlwz_pk-49" value="InventoryModule" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;strokeColor=#unset;rounded=1;absoluteArcSize=1;arcSize=9;fillColor=#unset;strokeWidth=NaN;fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+        <mxCell id="BrvUMdT3Bba3vBlwz_pk-49" value="Inventory Module" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;" vertex="1" parent="1">
           <mxGeometry x="-620" y="-717" width="159" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-50" value="Inventory Management" style="part=1;html=1;resizeHeight=0;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#unset;whiteSpace=wrap;fontSize=13;align=left;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-49">
@@ -16,7 +16,7 @@
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-52" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;+manageProducts()&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;+trackStock()&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="part=1;html=1;resizeHeight=0;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#unset;whiteSpace=wrap;fontSize=16.7;align=left;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-49">
           <mxGeometry y="88" width="159" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="BrvUMdT3Bba3vBlwz_pk-53" value="SiteManagementModule" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;fillColor=#000000;fontColor=light-dark(#ffffff, #ededed);" vertex="1" parent="1">
+        <mxCell id="BrvUMdT3Bba3vBlwz_pk-53" value="Site Management Module" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;" vertex="1" parent="1">
           <mxGeometry x="-124" y="-717" width="212" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-54" value="Warehouse Management" style="part=1;html=1;resizeHeight=0;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#unset;whiteSpace=wrap;fontSize=13;align=center;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-53">
@@ -32,10 +32,22 @@
           <mxGeometry y="25" width="270" height="117" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-61" value="DataProcessing" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;" vertex="1" parent="1">
-          <mxGeometry x="-309" y="372" width="194" height="100" as="geometry" />
+          <mxGeometry x="-310" y="372" width="194" height="100" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-64" value="&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;+processInventoryData()&#xa;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;display: flex; justify-content: flex-start; text-align: left; align-items: baseline; font-size: 0; line-height: 1.25;margin-top: -2px;&quot;&gt;&lt;span&gt;&lt;span style=&quot;font-size:16.7px;&quot;&gt;+processSiteData()&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="part=1;html=1;resizeHeight=0;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;swimlaneFillColor=#unset;whiteSpace=wrap;fontSize=16.7;align=left;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-61">
           <mxGeometry y="25" width="194" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="BrvUMdT3Bba3vBlwz_pk-91" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;entryX=0.811;entryY=0.999;entryPerimeter=0;lucidId=7zeLjfz~3mZK;fontColor=light-dark(#ffffff, #ededed);entryDx=0;entryDy=0;exitX=0.998;exitY=0.971;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="BrvUMdT3Bba3vBlwz_pk-61" source="BrvUMdT3Bba3vBlwz_pk-64">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="357" y="98" />
+            </Array>
+            <mxPoint x="200" y="98" as="sourcePoint" />
+            <mxPoint x="356.932" y="-959.002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BrvUMdT3Bba3vBlwz_pk-92" value="process" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#3a414a;fontSize=13.3;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-91">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-65" value="InventoryAPI" style="html=1;overflow=block;blockSpacing=1;swimlane;childLayout=stackLayout;horizontal=1;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;fontStyle=0;marginBottom=0;swimlaneFillColor=#unset;startSize=25;whiteSpace=wrap;fontSize=16.7;spacing=0;rounded=1;absoluteArcSize=1;arcSize=9;strokeWidth=NaN;" vertex="1" parent="1">
           <mxGeometry x="-511" y="-342" width="202" height="133" as="geometry" />
@@ -150,21 +162,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BrvUMdT3Bba3vBlwz_pk-94" value="processes data" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#3a414a;fontSize=13.3;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-93">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="BrvUMdT3Bba3vBlwz_pk-91" value="" style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#3a414a;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=0.8;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;endArrow=none;exitX=0.753;exitY=-0.005;exitPerimeter=0;entryX=0.811;entryY=0.999;entryPerimeter=0;lucidId=7zeLjfz~3mZK;fontColor=light-dark(#ffffff, #ededed);entryDx=0;entryDy=0;" edge="1" parent="1" target="BrvUMdT3Bba3vBlwz_pk-56">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-152" y="776" />
-              <mxPoint x="126" y="776" />
-              <mxPoint x="126" y="701" />
-              <mxPoint x="48" y="701" />
-            </Array>
-            <mxPoint x="-151.99799999999988" y="477.85000000000025" as="sourcePoint" />
-            <mxPoint x="46.55599999999997" y="-480.0000000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BrvUMdT3Bba3vBlwz_pk-92" value="process" style="text;html=1;resizable=0;labelBackgroundColor=default;align=center;verticalAlign=middle;fontStyle=1;fontColor=#3a414a;fontSize=13.3;" vertex="1" parent="BrvUMdT3Bba3vBlwz_pk-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
