@@ -193,30 +193,6 @@
             <mxPoint x="670" y="-708.5899999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ry10uh6CNJrxjQWA1f8F-25" value="Users" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ry10uh6CNJrxjQWA1f8F-26" value="Manages&lt;br&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Describes user management of warehouses&lt;/p&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="530" width="200" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="Ry10uh6CNJrxjQWA1f8F-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ry10uh6CNJrxjQWA1f8F-25" target="Ry10uh6CNJrxjQWA1f8F-26">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="500" as="sourcePoint" />
-            <mxPoint x="470" y="450" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="740" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Ry10uh6CNJrxjQWA1f8F-28" value="Roles&lt;div&gt;&lt;p data-pm-slice=&quot;1 1 []&quot;&gt;Permissions defining user access&lt;/p&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="650" width="190" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ry10uh6CNJrxjQWA1f8F-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="450" as="sourcePoint" />
-            <mxPoint x="370" y="650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Ry10uh6CNJrxjQWA1f8F-38" value="Inventory" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="-1050" width="250" height="120" as="geometry" />
         </mxCell>
